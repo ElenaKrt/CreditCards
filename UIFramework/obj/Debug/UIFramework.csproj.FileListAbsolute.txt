@@ -1,0 +1,12 @@
+C:\crimson\myProjects\CreditCards\UIFramework\obj\Debug\UIFramework.csprojResolveAssemblyReference.cache
+C:\crimson\myProjects\CreditCards\UIFramework\bin\Debug\UIFramework.pdb
+C:\crimson\myProjects\CreditCards\UIFramework\bin\Debug\WebDriver.dll
+C:\crimson\myProjects\CreditCards\UIFramework\bin\Debug\WebDriver.xml
+C:\crimson\myProjects\CreditCards\UIFramework\obj\Debug\UIFramework.pdb
+C:\crimson\myProjects\CreditCards\UIFramework\bin\Debug\nunit.framework.dll
+C:\crimson\myProjects\CreditCards\UIFramework\bin\Debug\nunit.framework.xml
+C:\crimson\myProjects\CreditCards\UIFramework\bin\Debug\WebDriver.Support.dll
+C:\crimson\myProjects\CreditCards\UIFramework\bin\Debug\WebDriver.Support.xml
+C:\crimson\myProjects\CreditCards\UIFramework\bin\Debug\UIFramework.dll.config
+C:\crimson\myProjects\CreditCards\UIFramework\bin\Debug\UIFramework.dll
+C:\crimson\myProjects\CreditCards\UIFramework\obj\Debug\UIFramework.dll

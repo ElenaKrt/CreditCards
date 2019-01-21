@@ -1,0 +1,17 @@
+C:\crimson\myProjects\CreditCards\CreditCards\obj\Debug\CreditCards.csprojResolveAssemblyReference.cache
+C:\crimson\myProjects\CreditCards\CreditCards\bin\Debug\CreditCards.pdb
+C:\crimson\myProjects\CreditCards\CreditCards\bin\Debug\nunit.framework.dll
+C:\crimson\myProjects\CreditCards\CreditCards\bin\Debug\nunit.framework.xml
+C:\crimson\myProjects\CreditCards\CreditCards\obj\Debug\CreditCards.pdb
+C:\crimson\myProjects\CreditCards\CreditCards\bin\Debug\WebDriver.dll
+C:\crimson\myProjects\CreditCards\CreditCards\bin\Debug\UIFramework.pdb
+C:\crimson\myProjects\CreditCards\CreditCards\bin\Debug\WebDriver.xml
+C:\crimson\myProjects\CreditCards\CreditCards\bin\Debug\CreditCardsPages.pdb
+C:\crimson\myProjects\CreditCards\CreditCards\bin\Debug\WebDriver.Support.dll
+C:\crimson\myProjects\CreditCards\CreditCards\bin\Debug\WebDriver.Support.xml
+C:\crimson\myProjects\CreditCards\CreditCards\bin\Debug\CreditCards.dll.config
+C:\crimson\myProjects\CreditCards\CreditCards\bin\Debug\CreditCards.dll
+C:\crimson\myProjects\CreditCards\CreditCards\obj\Debug\CreditCards.dll
+C:\crimson\myProjects\CreditCards\CreditCards\bin\Debug\CreditCardsPages.dll
+C:\crimson\myProjects\CreditCards\CreditCards\bin\Debug\UIFramework.dll
+C:\crimson\myProjects\CreditCards\CreditCards\bin\Debug\TechTalk.SpecFlow.dll

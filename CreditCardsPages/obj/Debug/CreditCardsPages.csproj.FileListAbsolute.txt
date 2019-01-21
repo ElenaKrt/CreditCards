@@ -1,0 +1,12 @@
+C:\crimson\myProjects\CreditCards\CreditCardsPages\bin\Debug\CreditCardsPages.pdb
+C:\crimson\myProjects\CreditCards\CreditCardsPages\obj\Debug\CreditCardsPages.csprojResolveAssemblyReference.cache
+C:\crimson\myProjects\CreditCards\CreditCardsPages\obj\Debug\CreditCardsPages.pdb
+C:\crimson\myProjects\CreditCards\CreditCardsPages\bin\Debug\WebDriver.dll
+C:\crimson\myProjects\CreditCards\CreditCardsPages\bin\Debug\UIFramework.pdb
+C:\crimson\myProjects\CreditCards\CreditCardsPages\bin\Debug\WebDriver.xml
+C:\crimson\myProjects\CreditCards\CreditCardsPages\bin\Debug\WebDriver.Support.dll
+C:\crimson\myProjects\CreditCards\CreditCardsPages\bin\Debug\WebDriver.Support.xml
+C:\crimson\myProjects\CreditCards\CreditCardsPages\bin\Debug\CreditCardsPages.dll.config
+C:\crimson\myProjects\CreditCards\CreditCardsPages\bin\Debug\CreditCardsPages.dll
+C:\crimson\myProjects\CreditCards\CreditCardsPages\bin\Debug\UIFramework.dll
+C:\crimson\myProjects\CreditCards\CreditCardsPages\obj\Debug\CreditCardsPages.dll
